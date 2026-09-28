@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home.sqijlpe.cn/sitemap.xml
